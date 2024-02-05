@@ -151,9 +151,8 @@ a:focus {
 }
 
 .navbar-brand {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'BebasNeue'; /* Use the new font name */
 }
-
 .navbar-brand span {
   font-weight: bold;
   font-size: 32px;
