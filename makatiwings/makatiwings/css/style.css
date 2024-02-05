@@ -5,7 +5,10 @@ body {
   background-color: #ffffff;
   overflow-x: hidden;
 }
-
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('../fonts/BebasNeue-Regular.ttf') format('truetype');
+}
 .layout_padding {
   padding: 90px 0;
 }
