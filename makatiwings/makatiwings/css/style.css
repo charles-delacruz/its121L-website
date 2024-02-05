@@ -122,7 +122,7 @@ a:focus {
 }
 
 .sub_page .hero_area {
-  min-height: auto;
+  min-height: 145px;
 }
 
 .sub_page .hero_area .bg-box {
